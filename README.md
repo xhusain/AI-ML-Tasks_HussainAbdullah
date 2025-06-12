@@ -23,7 +23,7 @@ Explore and visualize the Iris dataset to understand the relationships between f
 
 ---
 
-## Task 2: Stock Price Prediction (AAPL)
+## Task 2: Future Stock Price Prediction (AAPL)
 
 ### Objective
 Build a regression model to predict Apple Inc. (AAPL) stock prices using historical data.
@@ -52,7 +52,8 @@ Build a regression model to predict Apple Inc. (AAPL) stock prices using histori
 Predict house prices using selected features from a housing dataset.
 
 ### Dataset Used
-- Custom dataset with the following columns:
+- Kaggle link: https://www.kaggle.com/datasets/zafarali27/house-price-prediction-dataset?resource
+- Dataset columns:
   ```
   ['Id', 'Area', 'Bedrooms', 'Bathrooms', 'Floors', 'YearBuilt', 'Location', 'Condition', 'Garage', 'Price']
   ```
