@@ -1,4 +1,4 @@
-# AI-ML-Tasks_HussainAbdullah (DHC-456)
+# AI/ML Engineering - Tasks_HussainAbdullah-(DHC-456)
 This repository contains completed AI/ML internship tasks using Python and Jupyter Notebooks.
 
 ---
@@ -98,4 +98,4 @@ pip install pandas matplotlib seaborn scikit-learn yfinance
 
 ## Author
 
-- **Hussain Abdullah - DHC-456 - AI/ML**
+- **Hussain Abdullah - DHC-456 - AI/ML Engineering**
